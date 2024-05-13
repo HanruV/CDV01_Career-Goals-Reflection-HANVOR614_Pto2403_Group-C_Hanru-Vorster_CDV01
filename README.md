@@ -16,17 +16,19 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name:** Hanru Vorster
+- **Date:** 13/05/2024
+- **Current Role/Position:** Working in Psychometry and Part-time-student at CodeSpace
+- **Field of Interest:** Front-end-developer
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
     
     - List your current skills and areas of expertise.
+    
     - Identify skills you need to develop or improve.
+    
 2. **Interests and Values**:
     
     - Describe your key interests related to your career.
