@@ -11,17 +11,97 @@
 ## Part 1: Self-Assessment Reflection
 
 ### 1. **Skills Analysis**:
-    
-- Current skills and areas of expertise:
-    - 123
 
-- Needed skills to develop or improve:
-     - 123
+
+<table>
+<tr><th>Current Skills</th><th>Needed Skills</th></tr>
+<tr><td>
+
+|Soft| Technical |
+|---|---|
+| Systematic/logical     | HTML | 
+| Time management        | CSS | 
+| Analytical thinker     | Git/Github | 
+| Innovative             | Basic Java-script | 
+| Self-development       |  | 
+| Collaborration ability |  | 
+| Creative               |  | 
+| Good communication     |  | 
+| Attention to detail    |  | 
+| Time management        |  | 
+| Time management        |  | 
+
+</td><td>
+
+|Soft|Technical|
+|---|---|
+| Agile Methodlologies  | Java-script | 
+| Presentation ability  | Type-script | 
+| Multi-task | Tailwind | 
+| Work under pressure   | React | 
+| Being proactive       | Next | 
+| | Node | 
+| | Vue | 
+| | Angular |
+| | MySQL |
+| | ASP.Net Core |
+| | RESTful APIs |
+| | SEMVER |
+| | SEO  |
+| | WPO |
+| | JQuery |
+| | Responsive design |
+| | Documentation |
+| | AI utelization |
+| | Figma |
+
+</td></tr> </table>
+
+<!-- - **Current Skills:**
+
+| Soft Skills            | Technical Skills |
+| ---------------------- | ---------------- |
+| Systematic/logical     | HTML | 
+| Time management        | CSS | 
+| Analytical thinker     | Git/Github | 
+| Innovative             | Basic Java-script | 
+| Self-development       |  | 
+| Collaborration ability |  | 
+| Creative               |  | 
+| Good communication     |  | 
+| Attention to detail    |  | 
+| Time management        |  | 
+| Time management        |  | 
+
+- **Needed Skills:**
+
+| Soft Skills           | Technical Skills |
+| --------------------- | ---------------- |
+| Agile Methodlologies  | Java-script | 
+| Presentation ability  | Type-script | 
+| Multi-task | Tailwind | 
+| Work under pressure   | React | 
+| Being proactive       | Next | 
+| | Node | 
+| | Vue | 
+| | Angular |
+| | MySQL |
+| | ASP.Net Core |
+| | RESTful APIs |
+| | SEMVER |
+| | SEO  |
+| | WPO |
+| | JQuery |
+| | Responsive design |
+| | Documentation |
+| | AI utelization |
+| | Figma | -->
+
     
 ### 2. **Interests and Values**:
     
 - Key career interests:
-- WImportant work environment values:
+- Important work environment values:
 ---
 ## Part 2: Career Exploration Insights
 
