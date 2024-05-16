@@ -29,15 +29,15 @@
 | Good communication     |  | 
 | Attention to detail    |  | 
 |  |  | 
-| - | - |
-| - | - |
-| - | - |
-| - | - |
-| - | - |
-| - | - |
-| - | - |
-| - | - |
-| - | - |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 </td><td>
 
@@ -48,20 +48,20 @@
 | Multi-task | Tailwind | 
 | Work under pressure   | React | 
 | Being proactive       | Next | 
-| - | Node | 
-| - | Vue | 
-| - | Angular |
-| - | MySQL |
-| - | ASP.Net Core |
-| - | RESTful APIs |
-| - | SEMVER |
-| - | SEO  |
-| - | WPO |
-| - | JQuery |
-| - | Responsive design |
-| - | Documentation |
-| - | AI utelization |
-| - | Figma |
+|  | Node | 
+|  | Vue | 
+|  | Angular |
+|  | MySQL |
+|  | ASP.Net Core |
+|  | RESTful APIs |
+|  | SEMVER |
+|  | SEO  |
+|  | WPO |
+|  | JQuery |
+|  | Responsive design |
+|  | Documentation |
+|  | AI utelization |
+|  | Figma |
 
 </td></tr> </table>
 
