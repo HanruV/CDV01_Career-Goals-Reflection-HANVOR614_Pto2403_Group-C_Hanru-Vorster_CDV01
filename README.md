@@ -23,12 +23,12 @@
 | Time management        | CSS | 
 | Analytical thinker     | Git/Github | 
 | Innovative             | Basic Java-script | 
-| Self-development       | - | 
-| Collaborration ability | - | 
-| Creative               | - | 
-| Good communication     | - | 
-| Attention to detail    | - | 
-| - | - | 
+| Self-development       |  | 
+| Collaborration ability |  | 
+| Creative               |  | 
+| Good communication     |  | 
+| Attention to detail    |  | 
+|  |  | 
 | - | - |
 | - | - |
 | - | - |
@@ -69,14 +69,33 @@
 ### 2. **Interests and Values**:
     
 - Key career interests:
+    - Working more on frontend
+        - web/mobile app development
+    - Interest in Web Accessibiity for disabled people
+    
 - Important work environment values:
+    - Working remote/hybrid
+    - Co-learning/exploring work culture
+    - Encouraging and continued development oriented
+    - Positivity
+    - Innovation
+    - Collaborative
+    
 ---
 ## Part 2: Career Exploration Insights
 
 ### 1. **Industries and Roles Explored**:
     
 - Industry roles researched:
+    - React specialsit
+    - Junior front end and fullstack
+    - Data scientist
+    - JS specialist
+
 - Areas of interest:
+    - Working more on frontend
+        - web/mobile app development
+    - Interest in Web Accessibiity for disabled people
 
 ### 2. **Alignment with Personal Profile**:
     
