@@ -111,7 +111,7 @@
     
 |Specific goal| Why it's relevant | Deadline |
 |---|---|---|
-| UI/UX Scrimba | How to take design to code | July 2024 |
+| UI Scrimba | How to take design to code | Sept 2024 |
 | LinkedIn | Networking/job placement | Dec 2024 |
 | Font-end interviews challenges| Being prepared for tec-interviews | Dec 2024 |
 | Code Space | Competecy for Junior front end developer | March 2025 |
@@ -134,8 +134,16 @@
 
 ### 1. **Steps to Achieve Short-term Goals**:
     
-- Detail specific actions or steps needed to achieve each short-term goal:
-- Resources or support required:
+|Specific goal| How | Resources required |
+|---|---|---|
+| UI Scrimba | 1 module per week | Sept 2024 |
+| LinkedIn | Review monthly to add new skills/information | Dec 2025 |
+| Font-end interviews Tips Scrimba| 22 skrims, 1 per week | Dec 2024 |
+| Code Space | Complete each week, attend online events | March 2025 |
+| Coding portfolio | Adding new projects monthly | March 2025 |
+| All React Scrimba content | 4 modules, 1 every 2 months| March 2025 |
+| Prompt Engineering | 3 modules, 1 every 3 months | March 2025 |
+| Junior Front End Dev | Networ/get foot in the door | April 2025 |
 
 ### 2. **Preparation for Long-term Goals**:
     
