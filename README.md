@@ -147,7 +147,7 @@
 | All React content        | 4 modules, 1 every 2 months                  | Scrimba                 |
 | Prompt Engineering       | 3 modules, 1 every 3 months                  | Scrimba                 |
 | Code Space               | Complete each week, attend online events     | Code Space              |
-| Coding portfolio         | Adding new projects monthly                  | Github Tools            |
+| Coding portfolio         | Extra effort on CodeSpace Capstone projects  | Github Tools            |
 | LinkedIn                 | Review monthly to add new skills/information | Market Research         |
 | Junior Front End Dev     | Network/get foot in the door                 | Social/events to attend |
 
@@ -156,11 +156,11 @@
 - Preparations or groundwork necessary for your long-term aspirations:
   - Being aware of field trends and continue development and learing in key areas identified.
 - List of additional skills, experiences, or qualifications needed:
-    - How to work in different Agile systems
-    - How to present projects to stakeholder
-    - How to approach project architecture
-    - How to lead a team
-    - Getting familiar with more back-end technologies such as MySQL etc. 
+  - How to work in different Agile systems
+  - How to present projects to stakeholder
+  - How to approach project architecture
+  - How to lead a team
+  - Getting familiar with more back-end technologies such as MySQL etc.
 
 ---
 
@@ -169,9 +169,28 @@
 ### 1. **Anticipated Challenges**:
 
 - Potential obstacles or challenges in reaching your goals:
+  - Time management
+  - Changing tec demands
+  - Struggeling with certain concepts might require more attention and time
+  - Staying motivated
+  - Procrastination
+  - Distractions
 - Strategies to overcome these challenges:
+  - Set up time tables in calendar weekly
+  - Adjust time management to focus on more important tasks
+  - Accepting change
+  - Practice dicipline rather than motivation
+  - Be in an environment free of distractions
+  - Keep the end goals in mind
 
 ### 2. **Opportunities for Growth**:
 
 - Leverageable opportunities for career growth:
+  - Participating in pro bono offers
+  - Freelancing for experience
+  - Consider internships for getting a foot in the door
 - Networking, mentorship, or educational opportunities:
+  - Events planned by Code Space
+  - Interacting with other students (needing assistance/socialize)
+  - Asking coach for assistance when needed, and enquire about industry
+  - Making use of community channels on discords/slack/linked-in and meetup.com
