@@ -87,7 +87,7 @@
 ### 1. **Industries and Roles Explored**:
     
 - Industry roles researched:
-    - React specialsit
+    - React/Vue specialsit
     - Junior front end and fullstack
     - Data scientist
     - JS specialist
@@ -100,19 +100,35 @@
 ### 2. **Alignment with Personal Profile**:
     
 - How industries/roles align with your skills, interests, and values:
+    - Being innovative and constat learning is stimulating to me. Industry roles more focused on being in a team rather than leading appeals more to my style of working. Having good agile systems for development will suit me, as I do not perform well under pressure, but excell in well structured envirnoments. Creating frontend projects aligns well with my creative side, so being a bit more involved in the UI/UX components will be good. I am also a logical thinker who enjoyes working with systems and improving them. My skills, interests, and values definately aligns more with smaller teams and working in a structured creative environment. 
+
 - Gaps and areas for further exploration:
+    - Presentaional skills and working with larger groups of people. Being flexible and working under pressure is a skill that needs development. Further, working with data and more backend roles could prove challenging as I would have to work hard at maintaining interest. 
 ---
 ## Part 3: SMART Career Goals
 
 ### 1. **Short-term Goals** *(Next 1-2 years)*:
     
-- Specific, measurable, achievable, relevant, and time-bound goals:
-- Rationale behind each goal:
+|Specific goal| Why it's relevant | Deadline |
+|---|---|---|
+| UI/UX Scrimba | How to take design to code | July 2024 |
+| LinkedIn | Networking/job placement | Dec 2024 |
+| Font-end interviews challenges| Being prepared for tec-interviews | Dec 2024 |
+| Code Space | Competecy for Junior front end developer | March 2025 |
+| Coding portfolio | To showcase skills to employers | March 2025 |
+| All React Scrimba content | Most used JS framework | March 2025 |
+| Prompt Engineering | AI is a vital tool | March 2025 |
+| Junior Front End Dev | Kickoff my career | April 2025 |
+
 
 ### 2. **Long-term Goals** *(3-5 years and beyond)*:
     
-- Long-term career aspirations:
+|Specific goal| Why it's relevant | Deadline |
+|---|---|---|
+| Senior Dev | Better career prospects | 2027 |
+
 - How these align with your interests and skills:
+    - Bein in  a more senior positoin I can foster more learning and direction in projects. I would have to maybe assume a more leadership type role, and would need to focus on this as a skill. 
 ---
 ## Part 4: Action Plan
 
