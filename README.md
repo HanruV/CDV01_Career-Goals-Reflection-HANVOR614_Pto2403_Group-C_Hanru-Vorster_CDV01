@@ -139,17 +139,17 @@
 
 ### 1. **Steps to Achieve Short-term Goals**:
 
-| Specific goal            | How                                          | Resources required      |
-| ------------------------ | -------------------------------------------- | ----------------------- |
-| UI                       | 1 module per week                            | Scrimba                 |
-| Java Script              | 12 modules, 2 per month                      | Scrimba                 |
-| Font-end interviews Tips | 22 skrims, 1 per week                        | Scrimba                 |
-| All React content        | 4 modules, 1 every 2 months                  | Scrimba                 |
-| Prompt Engineering       | 3 modules, 1 every 3 months                  | Scrimba                 |
-| Code Space               | Complete each week, attend online events     | Code Space              |
-| Coding portfolio         | Extra effort on CodeSpace Capstone projects  | Github Tools            |
-| LinkedIn                 | Review monthly to add new skills/information | Market Research         |
-| Junior Front End Dev     | Network/get foot in the door                 | Social/events to attend |
+| Specific goal            | How                                          | Resources required      | Completion |
+| ------------------------ | -------------------------------------------- | ----------------------- | ---------- |
+| UI                       | Completed 20/05/2024                         | Scrimba                 | ✔️ |
+| Java Script              | 12 modules, 2 per month                      | Scrimba                 |  |
+| Font-end interviews Tips | 22 skrims, 1 per week                        | Scrimba                 |  |
+| All React content        | 4 modules, 1 every 2 months                  | Scrimba                 |  |
+| Prompt Engineering       | 3 modules, 1 every 3 months                  | Scrimba                 |  |
+| Code Space               | Complete each week, attend online events     | Code Space              |  |
+| Coding portfolio         | Extra effort on CodeSpace Capstone projects  | Github Tools            |  |
+| LinkedIn                 | Review monthly to add new skills/information | Market Research         |  |
+| Junior Front End Dev     | Network/get foot in the door                 | Social/events to attend |  |
 
 ### 2. **Preparation for Long-term Goals**:
 
